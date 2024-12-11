@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,18 +11,18 @@ body {
     color: #333;
 }
 
-/* Links */
+
 a {
     text-decoration: none;
     color: inherit;
 }
 
-/* Lists */
+
 ul {
     list-style: none;
 }
 
-/* Header */
+
 header {
     background-color: #ff69b4;
     color: white;
@@ -62,7 +62,7 @@ header .logo h1 {
     margin-bottom: 20px;
 }
 
-/* Button */
+
 .btn {
     background-color: #ff69b4;
     padding: 10px 20px;
@@ -77,7 +77,7 @@ header .logo h1 {
     background-color: #ff3385;
 }
 
-/* Catalog Section */
+
 .catalog {
     padding: 50px 0;
     text-align: center;
@@ -114,7 +114,7 @@ header .logo h1 {
     margin: 20px 0;
 }
 
-/* Subscribe Section */
+
 .subscribe {
     background-color: #ff69b4;
     color: white;
@@ -146,7 +146,7 @@ header .logo h1 {
     background-color: #ffe4e1;
 }
 
-/* Reviews Section */
+
 .reviews {
     padding: 50px 0;
     text-align: center;
@@ -176,7 +176,7 @@ header .logo h1 {
     font-weight: bold;
 }
 
-/* Contact Section */
+
 .contact {
     background-color: #ffe4e1;
     padding: 50px 0;
@@ -192,7 +192,7 @@ header .logo h1 {
     margin: 10px 0;
 }
 
-/* Footer */
+
 footer {
     background-color: #ff69b4;
     color: white;
@@ -215,9 +215,7 @@ footer p {
     margin-top: 10px;
 }
 
-/* Additional Sections */
 
-/* Shop */
 .shop .product {
     display: inline-block;
     width: 30%;
@@ -305,7 +303,7 @@ footer p {
     }
 }
 
-/* Gallery Section */
+
 .gallery .gallery-container {
     display: flex;
     flex-wrap: wrap;
@@ -344,7 +342,7 @@ footer p {
         width: 100%;  /* Make gallery items stack on smaller screens */
     }
 }
-/* Жалпы навигация стилі */
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -366,7 +364,7 @@ nav ul li a {
     font-size: 18px;
 }
 
-/* Выпадающий тізім стилі */
+
 nav ul li.dropdown {
     position: relative;
 }
@@ -402,7 +400,7 @@ nav ul li .dropdown-menu li a:hover {
     background-color: #666;
 }
 
-/* Түймелердің үстінен апарғанда эффект */
+
 nav ul li a:hover {
     background-color: #555;
 }
